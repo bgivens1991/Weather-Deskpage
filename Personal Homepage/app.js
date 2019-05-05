@@ -61,7 +61,7 @@ window.addEventListener('load', () => {
                     document.getElementById("background").src="Weather Videos/Cloudscape - 2166.mp4";
                 }
 
-                else if (summary === "Light Rain" || summary === "Heavy Rain" || summary === "Medium Rain" || summary === "Very Light Rain") {
+                else if (summary === "Light Rain" || summary === "Light Rain" || summary === "Heavy Rain" || summary === "Medium Rain" || summary === "Very Light Rain") {
                     document.getElementById("background").src="Weather Videos/Garden - 18230.mp4";
                 }
 
